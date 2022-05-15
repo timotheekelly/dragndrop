@@ -50,6 +50,10 @@
   color: rgb(0, 0, 0);
 }
 
+.current {
+  background-color: #282c34;
+}
+
 .dnd-item:not(:last-of-type) {
   margin-bottom: 0.5rem;
 }
@@ -59,7 +63,7 @@
 }
 
 .group-title {
-  
+
 }
 
 .App-link {
